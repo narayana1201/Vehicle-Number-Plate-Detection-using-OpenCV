@@ -9,6 +9,7 @@ Automatic-Number-Plate-Detection Project helps to Find and allow the Only regist
 5. MongoDB
 
 =>Installation Steps:
+
 Open command Prompt. (windows)
 Step 1: create virtualenv
 command: virtualenv numberplate_detection
