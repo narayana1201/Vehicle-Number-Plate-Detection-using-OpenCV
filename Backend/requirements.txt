@@ -1,0 +1,13 @@
+opencv-python
+opencv-contrib-python
+pillow
+image
+regex
+fastapi
+uvicorn
+pydantic
+pymongo
+python-multipart
+imutils
+easyocr
+passlib
