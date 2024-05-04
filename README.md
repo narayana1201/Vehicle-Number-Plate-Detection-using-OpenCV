@@ -11,13 +11,20 @@ Automatic-Number-Plate-Detection Project helps to Find and allow the Only regist
 =>Installation Steps:
 
 Open command Prompt. (windows)
-Step 1: create virtualenv
+1. create virtualenv
+   
 command: virtualenv numberplate_detection
-Step 2: Activate virtualenv
+
+2. Activate virtualenv
+   
 command: numberplate_detection\Scripts\Activate
-Step 3. Install Requerements
+
+3. Install Requerements
+   
 command: pip install -r requerements.txt
-Step4. Run python script
+
+4. Run python script
+   
 command: python main.py
 
 It Will start the backend API.
