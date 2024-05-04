@@ -28,3 +28,11 @@ command: pip install -r requerements.txt
 command: python main.py
 
 It Will start the backend API.
+
+Start Frontend:
+
+1. open code in vscode
+2. npm i
+3. npm start
+
+It will start the frontend
