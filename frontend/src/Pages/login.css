@@ -1,0 +1,20 @@
+.login-page {
+    background: #6a11cb;
+    height: 100vh;
+      background: -webkit-linear-gradient(to right, rgb(194, 17, 203), rgb(37, 198, 252));
+      background: linear-gradient(to right, rgb(212 127 229), rgb(37, 213, 252))
+  }
+  .white-button {
+    color: white; /* Make the text transparent by default */
+  }
+  
+  .white-button:hover {
+    color:  rgba(37, 117, 252, 1);
+  }
+
+  .form-align{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center
+  }

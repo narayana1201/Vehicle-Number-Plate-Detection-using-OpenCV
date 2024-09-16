@@ -1,0 +1,27 @@
+.preview-image{
+    width: 30%;
+    height: 30vh;
+    margin: 10px;
+}
+
+.success-message {
+    padding: 10px;
+    color: #3c763d; /* Dark green text color */
+    font-family: Poppins;
+    font-size: 14px; 
+  }
+  
+  .error-message {
+    padding: 10px;
+    color: #a94442; 
+    font-family: Poppins;
+    font-size: 14px; 
+  }
+  
+  .message-box{
+    width: 30%;
+    height: 30vh;
+    overflow-y: scroll;
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+  }
